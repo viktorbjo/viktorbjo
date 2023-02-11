@@ -1,6 +1,7 @@
+<!--
+
 ### Hi there 👋
 
-<!--
 **viktorbjo/viktorbjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## KTH relaterade repos
+
+- [IS1200 Datorteknik](https://github.com/viktorbjo/IS1200)
+- [IV1351 Datalagring](https://github.com/viktorbjo/IV1351)
+- [ID1018 Programmering 1](https://github.com/viktorbjo/ID1018)
+- [IF1330 Ellära](https://github.com/viktorbjo/if1330)
+- [ID1021 Algoritmer och datastrukturer](https://github.com/viktorbjo/ID1021)
+- [IK1203 Nätverk och kommunikation](https://github.com/viktorbjo) (privat)
+
