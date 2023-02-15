@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## KTH relaterade repos
+## KTH Kurser
 
 - [IS1200 Datorteknik](https://github.com/viktorbjo/IS1200)
 - [IV1351 Datalagring](https://github.com/viktorbjo/IV1351)
