@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 - [ID1018 Programmering 1](https://github.com/viktorbjo/ID1018)
 - [IF1330 Ellära](https://github.com/viktorbjo/if1330)
 - [ID1021 Algoritmer och datastrukturer](https://github.com/viktorbjo/ID1021)
-- [IK1203 Nätverk och kommunikation](https://github.com/viktorbjo) (privat)
+- [IK1203 Nätverk och kommunikation](https://github.com/viktorbjo/ik1203)
 - [IE1332 Utveckling av elektronikprodukter](https://github.com/viktorbjo/IE1332)
 
