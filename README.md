@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 - [ID1021 Algoritmer och datastrukturer](https://github.com/viktorbjo/ID1021)
 - [IK1203 Nätverk och kommunikation](https://github.com/viktorbjo/ik1203)
 - [IE1332 Utveckling av elektronikprodukter](https://github.com/viktorbjo/IE1332)
-- [IL1332 Digital systemdesign med hårdvarubeskrivande språk](https://github.com/viktorbjo)
+- [IL1332 Digital systemdesign med hårdvarubeskrivande språk](https://github.com/viktorbjo/IL1332)
 
